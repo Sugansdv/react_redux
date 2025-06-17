@@ -10,6 +10,11 @@ function App() {
 
   return (
     <>
+      <div className="header">
+    <div className="header-left">Suganya S</div>
+    <div className="header-right">Day 21 Task</div>
+  </div>
+         
       <Task />
       <hr />
       <Proj1 />
