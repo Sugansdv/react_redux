@@ -14,7 +14,7 @@ function App() {
     <>
      <div className="header">
     <div className="header-left">Suganya S</div>
-    <div className="header-right">Day 22 Task</div>
+    <div className="header-right">Day 23 Task</div>
   </div>
     <div className="container mt-4">
       <Task1 /><br /><hr />
