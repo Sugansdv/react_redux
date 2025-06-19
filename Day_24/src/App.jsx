@@ -12,7 +12,7 @@ function App() {
     <>
     <div className="header">
     <div className="header-left">Suganya S</div>
-    <div className="header-right">Day 23 Task</div>
+    <div className="header-right">Day 24 Task</div>
   </div>
 
        <Task />  <br /><hr />
