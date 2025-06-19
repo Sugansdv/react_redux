@@ -10,11 +10,16 @@ function App() {
 
   return (
     <>
-       <Task />
-       <CounterErrorBoundary />
-       <UserErrorBoundary />
-       <FormWithValidation />
-       <JokeGenerator />
+    <div className="header">
+    <div className="header-left">Suganya S</div>
+    <div className="header-right">Day 23 Task</div>
+  </div>
+
+       <Task />  <br /><hr />
+       <CounterErrorBoundary />  <br /><hr />
+       <UserErrorBoundary />  <br /><hr />
+       <FormWithValidation />  <br /><hr />
+       <JokeGenerator />  <br /><hr />
       
     </>
   )
